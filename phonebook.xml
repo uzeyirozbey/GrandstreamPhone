@@ -35,4 +35,15 @@
     <Department>Bilgi İşlem</Department>
     <Group>2</Group>
   </Contact>
+   <Contact>
+    <FirstName>deneme123</FirstName>
+    <LastName></LastName>
+    <Frequent>1</Frequent>
+    <Phone type="Work">
+      <phonenumber>1195</phonenumber>
+      <accountindex>0</accountindex>
+    </Phone>
+    <Department>Bilgi İşlem</Department>
+    <Group>2</Group>
+  </Contact>
 </AddressBook>
