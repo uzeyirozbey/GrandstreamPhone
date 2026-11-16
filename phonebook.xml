@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AddressBook>
+  <version>1</version>
+  <pbgroup>
+    <id>1</id>
+    <name>Blacklist</name>
+  </pbgroup>
+  <pbgroup>
+    <id>2</id>
+    <name>Work</name>
+  </pbgroup>
+  <pbgroup>
+    <id>3</id>
+    <name>Friend</name>
+  </pbgroup>
+  <Contact>
+    <FirstName>deneme</FirstName>
+    <LastName>deneme</LastName>
+    <Frequent>1</Frequent>
+    <Phone type="Work">
+      <phonenumber>1192</phonenumber>
+      <accountindex>0</accountindex>
+    </Phone>
+    <Department>Bilgi İşlem</Department>
+    <Group>2</Group>
+  </Contact>
+  <Contact>
+    <FirstName>deneme</FirstName>
+    <LastName>deneme</LastName>
+    <Frequent>1</Frequent>
+    <Phone type="Work">
+      <phonenumber>1193</phonenumber>
+      <accountindex>0</accountindex>
+    </Phone>
+    <Department>Bilgi İşlem</Department>
+    <Group>2</Group>
+  </Contact>
+</AddressBook>
